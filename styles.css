@@ -12,6 +12,10 @@ header {
     text-align: center;
 }
 
+header h1 {
+    color: #ffffff; /* Ensure header text color is white */
+}
+
 section {
     margin: 20px;
     padding: 20px;
@@ -32,4 +36,8 @@ footer {
     position: relative;
     bottom: 0;
     width: 100%;
+}
+
+footer p {
+    color: #ffffff; /* Ensure footer text color is white */
 }
